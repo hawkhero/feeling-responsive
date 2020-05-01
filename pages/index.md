@@ -12,7 +12,7 @@ widget1:
   title: "2020神國教育論壇開放報名囉"
   date: '2020/01/08 (三)'
   url: '/news/'
-  image: widget-1-302x182.jpg
+  image: news/god-kindom-2020.jpg
   text: '主題：教養子女的猶太智慧2～大師級素養教育內涵 <br/>
 時間：2020.02.01(六)上午9點～下午5點<br/>
 地點：台南晨光教會 (台南市東區崇德三街12號B1)<br/>
@@ -28,7 +28,7 @@ widget3:
   title: "親子朗誦課程：花兒姐姐的親子朗誦小學堂"
   date:
   url: '/news/'
-  image: widget-github-303x182.jpg
+  image: news/recite-class-2019.jpg
   text: '6/22（六）下午1～6點在晨光教會<br/>
 <a href="http://bit.ly/2MzbDzq">線上報名</href>'
 #
@@ -55,7 +55,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <video width="1280" height="720" src="blob:https://www.youtube.com/6eb86451-780b-4584-bdce-143e363854c6" frameborder="0" allowfullscreen></video>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
