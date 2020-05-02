@@ -17,7 +17,7 @@ slogan: '百遍讀經'
 description: '推廣兒童讀經教育於家庭、教會、社會大眾'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>陳克奇製作，採用 <a href="http://phlow.de/">Phlow</a> 所製作的 <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>2020 陳克奇製作，採用 <a href="http://phlow.de/">Phlow</a> 所製作的 <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: alpha     # Default author for posts
 
 
 

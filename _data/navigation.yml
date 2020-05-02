@@ -1,21 +1,32 @@
 - title: 首頁
   url: "/"
   side: left
-  
 - title: 關於我們
-  url: "/getting-started/"
+  url: "/pages/about-us/"
   side: left
 - title: 出版品
-  url: "/getting-started/"
+  url: "/pages/publication/"
   side: left
 - title: 關於讀經
-  url: "http://www.101superweb.com/web/tainanalpha"
+  url: "/pages/recite/"
   side: left
+- title: 事工報告
+  url: ""
+  side: left  
+  dropdown:
+  - title: "2020"
+    url: "/design/header-full-width-image/"
+  - title: "2019"
+    url: "/design/header-full-width-image/"
 - title: 線上奉獻
   url: "http://www.101superweb.com/web/tainanalpha"
   side: left
+- title: "搜尋本站"
+  url: "/search/"
+  side: right
 
-# - title: "Templates"
+
+  # - title: "Templates"
 #   url: "/design/"
 #   side: left
 #   dropdown:
@@ -75,10 +86,3 @@
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
 
-- title: "搜尋本站"
-  url: "/search/"
-  side: right
-
-- title: "聯繫我們"
-  url: "/contact/"
-  side: right
