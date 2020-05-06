@@ -20,13 +20,13 @@ widget1:
 <a href="https://bit.ly/2020%E7%A5%9E%E5%9C%8B%E6%95%99%E8%82%B2%E8%AB%96%E5%A3%87%E7%B7%9A%E4%B8%8A%E5%A0%B1%E5%90%8D?fbclid=IwAR1zUJMx-63n2qOW65IYbcPSWjiBNobNpOdDfMf1BOQCufjZQI20wplJlKs">線上報名</a>'
 widget2:
   title: "2019年聖經朗誦比賽正式開跑囉！"
-  date:
+  date: 2019/07/01 (一)
   url: '/news/'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
   text: '活動地點：台南善牧堂（701 東區長榮路三段1號）<a href="http://bit.ly/2RJFNz5">線上報名</href>'
 widget3:
   title: "親子朗誦課程：花兒姐姐的親子朗誦小學堂"
-  date:
+  date: 2019/05/28 (二)
   url: '/news/'
   image: news/recite-class-2019.jpg
   text: '6/22（六）下午1～6點在晨光教會<br/>
@@ -42,8 +42,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: 索取大字注音版讀經本 ›
+  url: https://bit.ly/%E9%98%BF%E7%88%BE%E6%B3%95%E7%B4%A2%E6%9B%B8%E8%A1%A8%E5%96%AE?fbclid=IwAR1RvhSUk2LThJ0JMQ4MhZsjr4RcCSqMaHLoNI9XzEr30qKF4J8ffSwK1dM
+  text: 索取大字注音版讀經本（網站測試中） ›
   style: alert
 
 #
