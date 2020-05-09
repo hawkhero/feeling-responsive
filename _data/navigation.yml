@@ -2,7 +2,7 @@
   url: "/"
   side: left
 - title: 關於我們
-  url: "/pages/about-us/"
+  url: "/pages/關於我們/"
   side: left
 - title: 出版品
   url: "/pages/publication/"
@@ -21,6 +21,7 @@
 - title: 線上奉獻
   url: "http://www.101superweb.com/web/tainanalpha"
   side: left
+
 - title: "搜尋本站"
   url: "/search/"
   side: right
