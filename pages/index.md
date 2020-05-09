@@ -42,7 +42,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://bit.ly/%E9%98%BF%E7%88%BE%E6%B3%95%E7%B4%A2%E6%9B%B8%E8%A1%A8%E5%96%AE?fbclid=IwAR1RvhSUk2LThJ0JMQ4MhZsjr4RcCSqMaHLoNI9XzEr30qKF4J8ffSwK1dM
+  url: https://bit.ly/%E9%98%BF%E7%88%BE%E6%B3%95%E7%B4%A2%E6%9B%B8%E8%A1%A8%E5%96%AE
   text: 索取大字注音版讀經本（網站測試中） ›
   style: alert
 
