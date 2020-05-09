@@ -463,7 +463,11 @@ font-smoothing: antialiased;
 .icon-edit:before { content: "\f110"; }
 .icon-export:before { content: "\f111"; }
 .icon-eye:before { content: "\f112"; }
-.icon-facebook:before { content: "\f113"; }
+
+.icon-facebook:before { 
+    content: "\f113"; 
+    color: #3d6ad6;
+}
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
@@ -497,4 +501,7 @@ font-smoothing: antialiased;
 .icon-vimeo:before { content: "\f130"; }
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
-.icon-youtube:before { content: "\f132"; }
+.icon-youtube:before { 
+    content: "\f132"; 
+    color: #FF0000;
+}

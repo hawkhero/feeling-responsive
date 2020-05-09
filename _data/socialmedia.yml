@@ -1,12 +1,19 @@
 - name: Facebook
   url: https://www.facebook.com/alphachildrenscripturerecitingassociation/
-  class: icon-facebook
+  class: icon-facebook font-size-h3
   title: "阿爾法粉絲專頁"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCHetixTXWgic895R0tPfa2Q/playlists?view_as=subscriber
-  class: icon-youtube
+  class: icon-youtube font-size-h3
   title: "阿爾法影片頻道"
+
+- name: Line@
+  url: http://line.me/ti/p/%40mht4996c
+  class: font-size-h2
+  title: Line@
+  html: '<i class="fab fa-line" style="color: #02b90e"></i>'
+
 
 #   - name: GitHub
 #   url: http://github.com/alpha
